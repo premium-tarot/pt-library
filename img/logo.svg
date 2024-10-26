@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 83.71 83.71">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        font-family: Algerian, Algerian;
+        font-size: 40px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #e7304f;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        font-family: RussoOne-Regular, 'Russo One';
+        font-size: 10px;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-4" x="11.86" y="11.86" width="60" height="60" rx="5" ry="5" transform="translate(-17.34 41.86) rotate(-45)"/>
+  <g>
+    <text class="cls-3" transform="translate(19.46 53.29)"><tspan x="0" y="0">p</tspan><tspan class="cls-1" x="6.3" y="0">r</tspan><tspan x="10.7" y="0">emium</tspan><tspan class="cls-1" x="9.77" y="9">t</tspan><tspan class="cls-5" x="13.97" y="9">a</tspan><tspan class="cls-1" x="19.92" y="9">r</tspan><tspan x="24.32" y="9">ot</tspan></text>
+    <text class="cls-2" transform="translate(31.28 41.79)"><tspan x="0" y="0">π</tspan></text>
+  </g>
+</svg>
